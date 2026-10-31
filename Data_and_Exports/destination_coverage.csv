@@ -1,0 +1,617 @@
+Country/Region,State/Province,City,Records,Sales,Gross_Profit,City Latitude,City Longitude,_merge
+United States,New York,New York City,915,12514.9,8240.51,40.7128,-74.006,both
+United States,California,Los Angeles,747,10408.75,6898.61,34.0522,-118.2437,both
+United States,Pennsylvania,Philadelphia,537,7415.52,4813.82,39.9526,-75.1652,both
+United States,California,San Francisco,510,7018.61,4650.77,37.7749,-122.4194,both
+United States,Washington,Seattle,428,5893.39,3880.68,47.6062,-122.3321,both
+United States,Texas,Houston,377,5429.41,3547.43,29.7604,-95.3698,both
+United States,Illinois,Chicago,314,4263.92,2800.58,41.8781,-87.6298,both
+United States,California,San Diego,170,2348.88,1567.52,32.7157,-117.1611,both
+United States,Texas,Dallas,157,1947.51,1299.77,32.7767,-96.797,both
+United States,Ohio,Columbus,120,1845.3,1203.8600000000001,39.9612,-82.9988,both
+United States,Michigan,Detroit,115,1532.97,1034.17,42.3314,-83.0458,both
+United States,Florida,Jacksonville,75,856.29,572.27,30.3322,-81.6557,both
+United States,Georgia,Columbus,68,1120.55,688.37,,,left_only
+United States,Arizona,Phoenix,63,785.31,513.43,33.4484,-112.074,both
+United States,Delaware,Newark,60,821.95,525.61,,,left_only
+United States,Texas,San Antonio,59,873.11,588.85,,,left_only
+Canada,Ontario,Toronto,58,814.57,542.57,43.6532,-79.3832,both
+United States,Florida,Miami,57,757.98,512.26,25.7617,-80.1918,both
+United States,North Carolina,Charlotte,52,870.38,582.6,35.2271,-80.8431,both
+United States,North Carolina,Jacksonville,50,641.28,431.5,,,left_only
+United States,Virginia,Springfield,50,670.51,424.57,,,left_only
+United States,Kentucky,Henderson,48,683.5600000000001,442.72,,,left_only
+United States,Wisconsin,Milwaukee,45,825.57,521.23,,,left_only
+United States,Colorado,Denver,44,645.87,406.67,,,left_only
+United States,Maryland,Baltimore,43,656.36,446.76,,,left_only
+United States,Ohio,Cleveland,42,468.69,307.75,,,left_only
+United States,California,San Jose,42,555.89,372.29,,,left_only
+United States,Missouri,Springfield,39,527.18,355.36,,,left_only
+United States,Texas,Austin,39,460.16,307.08,,,left_only
+United States,Georgia,Atlanta,39,554.73,377.71000000000004,,,left_only
+United States,Michigan,Jackson,38,430.82,284.94,,,left_only
+United States,Oregon,Springfield,38,578.1800000000001,385.18,,,left_only
+United States,Florida,Tampa,36,376.39,253.11,,,left_only
+United States,New York,Rochester,36,455.49,300.96999999999997,,,left_only
+United States,Ohio,Springfield,36,599.13,375.01,,,left_only
+United States,Ohio,Newark,35,486.78000000000003,332.4,,,left_only
+Canada,Quebec,Montreal,34,437.03000000000003,276.41,,,left_only
+United States,Indiana,Columbus,34,391.54,266.8,,,left_only
+United States,Illinois,Aurora,34,450.11,304.25,,,left_only
+United States,Mississippi,Jackson,34,552.37,361.69,,,left_only
+United States,New York,Long Beach,34,493.34,332.68,,,left_only
+United States,Colorado,Aurora,34,466.64,314.86,,,left_only
+United States,Kentucky,Richmond,34,405.78000000000003,274.14,,,left_only
+United States,Massachusetts,Lawrence,33,463.85,296.63,,,left_only
+United States,Kentucky,Louisville,33,470.59000000000003,310.17,,,left_only
+United States,Ohio,Toledo,32,533.02,326.64,,,left_only
+United States,Virginia,Arlington,32,448.79,301.01,,,left_only
+United States,Arizona,Tucson,32,647.4,409.1,,,left_only
+United States,Ohio,Lancaster,31,421.47,282.59,,,left_only
+United States,Rhode Island,Providence,31,490.46000000000004,296.06,,,left_only
+United States,Tennessee,Memphis,30,401.86,256.24,,,left_only
+United States,South Carolina,Columbia,30,413.94,272.24,,,left_only
+United States,Indiana,Richmond,29,370.43,238.19,,,left_only
+United States,Tennessee,Nashville,29,395.61,260.77,,,left_only
+United States,Maryland,Clinton,29,419.76,279.88,,,left_only
+United States,Arizona,Mesa,28,458.07,308.51,,,left_only
+United States,Texas,Arlington,28,459.68,308.88,,,left_only
+United States,Nebraska,Omaha,28,347.49,235.37,,,left_only
+United States,North Carolina,Fayetteville,27,399.56,270.36,,,left_only
+United States,Delaware,Wilmington,27,424.84000000000003,285.16,,,left_only
+United States,Oregon,Salem,27,391.15000000000003,247.26999999999998,,,left_only
+United States,California,Anaheim,27,482.6,311.82,,,left_only
+United States,Texas,Fort Worth,27,361.83,244.27,,,left_only
+United States,California,Long Beach,27,396.74,268.38,,,left_only
+United States,Virginia,Richmond,27,460.98,296.58,,,left_only
+United States,California,Fresno,26,365.92,247.72,,,left_only
+United States,Texas,Huntsville,26,425.99,288.49,,,left_only
+United States,Oklahoma,Tulsa,26,382.07,259.43,,,left_only
+United States,California,Oakland,26,381.26,259.12,,,left_only
+United States,California,Pasadena,25,340.33,228.67000000000002,,,left_only
+United States,Colorado,Colorado Springs,25,392.15,264.97,,,left_only
+United States,Arkansas,Little Rock,24,310.93,207.13,,,left_only
+United States,Colorado,Louisville,24,310.43,208.65,,,left_only
+United States,Oregon,Portland,24,329.99,222.55,,,left_only
+United States,New Jersey,Lakewood,24,325.97,192.97,,,left_only
+United States,Tennessee,Knoxville,24,290.11,196.61,,,left_only
+United States,Minnesota,Minneapolis,23,283.1,190.9,,,left_only
+United States,Arizona,Glendale,23,237.43,161.59,,,left_only
+United States,Indiana,Indianapolis,23,333.42,226.3,,,left_only
+United States,Oklahoma,Oklahoma City,23,278.0,190.36,,,left_only
+United States,Maryland,Columbia,23,309.15,208.53,,,left_only
+United States,North Carolina,Raleigh,22,273.22,189.32,,,left_only
+United States,Florida,Lakeland,22,263.66,172.52,,,left_only
+Canada,British Columbia,Vancouver,22,290.9,198.3,,,left_only
+United States,New York,Oceanside,22,294.03000000000003,197.47,,,left_only
+United States,Illinois,Decatur,22,273.12,184.22,,,left_only
+United States,Massachusetts,Everett,21,296.62,201.26,,,left_only
+United States,Ohio,Akron,21,265.8,173.2,,,left_only
+United States,New Jersey,Paterson,20,210.9,139.64,,,left_only
+United States,Texas,Mcallen,19,185.53,125.07000000000001,,,left_only
+United States,Connecticut,Fairfield,19,275.49,183.31,,,left_only
+United States,Louisiana,Lafayette,19,202.57,137.67,,,left_only
+United States,Texas,El Paso,19,222.94,145.38,,,left_only
+United States,Georgia,Roswell,18,226.47,155.85,,,left_only
+United States,Florida,Hialeah,18,264.35,176.3,,,left_only
+United States,Virginia,Chesapeake,18,253.07,169.87,,,left_only
+United States,Tennessee,Columbia,18,226.68,154.48000000000002,,,left_only
+Canada,Alberta,Calgary,18,435.82,262.6,,,left_only
+United States,Minnesota,Rochester,17,175.94,116.96,,,left_only
+United States,Massachusetts,Franklin,17,223.66,140.54,,,left_only
+United States,Texas,Pasadena,17,247.79000000000002,163.67000000000002,,,left_only
+United States,Florida,Tallahassee,17,338.37,234.57,,,left_only
+United States,New York,Auburn,17,276.89,176.57,,,left_only
+United States,Georgia,Smyrna,17,211.88,133.84,,,left_only
+United States,Ohio,Fairfield,17,273.41,183.77,,,left_only
+United States,California,Westminster,17,177.39000000000001,120.71,,,left_only
+United States,Ohio,Lakewood,17,419.61,250.91,,,left_only
+United States,Ohio,Cincinnati,17,181.28,119.53999999999999,,,left_only
+United States,Rhode Island,Cranston,16,185.37,125.19,,,left_only
+United States,Virginia,Alexandria,16,293.52,195.16,,,left_only
+United States,Pennsylvania,Chester,16,189.52,129.7,,,left_only
+United States,Virginia,Virginia Beach,16,218.32,146.04,,,left_only
+United States,Arizona,Peoria,16,204.48,135.58,,,left_only
+United States,Massachusetts,Lowell,16,207.28,130.98,,,left_only
+United States,California,Redlands,16,220.3,146.32,,,left_only
+Canada,Quebec,Quebec City,16,160.65,104.95,,,left_only
+United States,Nevada,North Las Vegas,16,203.64,137.68,,,left_only
+United States,California,Bakersfield,16,166.76,112.44,,,left_only
+United States,California,Brentwood,16,233.12,156.04,,,left_only
+United States,California,Inglewood,16,189.61,129.25,,,left_only
+United States,Texas,Carrollton,15,180.04,122.72,,,left_only
+United States,Arizona,Gilbert,15,418.58,236.04,,,left_only
+United States,Florida,Fort Lauderdale,15,232.11,157.95,,,left_only
+United States,New York,Yonkers,15,269.11,167.39,,,left_only
+United States,New York,Troy,15,197.29,118.81,,,left_only
+United States,New Hampshire,Concord,15,206.84,123.46,,,left_only
+United States,Texas,Plano,15,161.47,106.78999999999999,,,left_only
+United States,Minnesota,Lakeville,15,288.45,190.89,,,left_only
+United States,Ohio,Marion,14,126.14,82.06,,,left_only
+United States,New Mexico,Albuquerque,14,201.39,132.01,,,left_only
+United States,California,Roseville,14,198.77,133.29,,,left_only
+United States,California,Santa Ana,14,192.78,129.78,,,left_only
+United States,California,Riverside,14,139.68,93.46,,,left_only
+United States,Florida,Pembroke Pines,14,167.23000000000002,112.07,,,left_only
+United States,Georgia,Sandy Springs,14,164.99,114.01,,,left_only
+United States,Florida,Saint Petersburg,14,165.44,108.06,,,left_only
+United States,Ohio,Troy,14,195.55,132.77,,,left_only
+United States,Washington,Edmonds,14,143.02,95.1,,,left_only
+United States,Arkansas,Fayetteville,14,231.05,145.51,,,left_only
+United States,Virginia,Salem,13,173.05,115.21,,,left_only
+United States,Ohio,Dublin,13,182.69,124.75,,,left_only
+United States,Alabama,Decatur,13,186.73000000000002,126.50999999999999,,,left_only
+United States,Arizona,Tempe,13,326.75,182.35,,,left_only
+United States,Texas,Grand Prairie,13,157.4,105.7,,,left_only
+United States,North Carolina,Greensboro,13,165.17,110.33,,,left_only
+United States,Nevada,Las Vegas,13,216.12,146.8,,,left_only
+United States,Texas,Laredo,13,133.67000000000002,90.28999999999999,,,left_only
+United States,Michigan,Westland,13,162.02,108.14,,,left_only
+United States,California,Sacramento,13,127.81,86.33,,,left_only
+United States,New Jersey,Plainfield,13,169.17000000000002,99.23,,,left_only
+United States,Michigan,Trenton,13,239.37,151.82999999999998,,,left_only
+United States,Michigan,Midland,12,135.73,92.12,,,left_only
+United States,Louisiana,Monroe,12,172.74,115.12,,,left_only
+United States,Indiana,Lafayette,12,155.63,105.65,,,left_only
+United States,Tennessee,Johnson City,12,150.74,101.28,,,left_only
+Canada,Manitoba,Winnipeg,12,138.25,90.27,,,left_only
+United States,Virginia,Newport News,12,148.43,91.77,,,left_only
+United States,Arizona,Scottsdale,12,206.2,139.35999999999999,,,left_only
+United States,Iowa,Des Moines,12,154.9,103.8,,,left_only
+United States,Illinois,Rockford,11,291.43,182.35,,,left_only
+United States,Illinois,Skokie,11,154.24,104.36,,,left_only
+United States,Florida,Plantation,11,156.52,104.55999999999999,,,left_only
+United States,Virginia,Hampton,11,168.05,111.07,,,left_only
+United States,Indiana,Lawrence,11,172.74,115.58,,,left_only
+United States,Alabama,Mobile,11,165.59,109.59,,,left_only
+United States,Connecticut,Meriden,11,114.3,73.14,,,left_only
+United States,Tennessee,Franklin,11,111.66,76.26,,,left_only
+United States,Florida,Hollywood,11,139.62,83.86,,,left_only
+United States,Connecticut,Waterbury,11,113.64,78.46000000000001,,,left_only
+United States,Florida,Orlando,11,138.63,94.21000000000001,,,left_only
+United States,Tennessee,Murfreesboro,11,137.19,85.99000000000001,,,left_only
+United States,Vermont,Burlington,11,162.44,109.98,,,left_only
+United States,Massachusetts,Quincy,11,155.21,105.93,,,left_only
+United States,California,Chico,11,232.76,139.57999999999998,,,left_only
+United States,California,Costa Mesa,11,141.01,96.57000000000001,,,left_only
+United States,Arkansas,Jonesboro,11,184.98,122.97999999999999,,,left_only
+United States,New York,Hempstead,11,226.51,140.57,,,left_only
+United States,New Mexico,Carlsbad,11,120.74000000000001,80.4,,,left_only
+United States,Connecticut,Manchester,11,146.89000000000001,99.57,,,left_only
+United States,North Carolina,Burlington,11,152.93,101.61,,,left_only
+United States,Ohio,Parma,10,140.91,95.27000000000001,,,left_only
+United States,New York,Buffalo,10,163.5,110.64,,,left_only
+United States,New Hampshire,Dover,10,186.83,118.23,,,left_only
+United States,New Jersey,Belleville,10,111.82000000000001,74.32,,,left_only
+Canada,Prince Edward Island,Charlottetown,10,130.1,88.66,,,left_only
+United States,Missouri,Columbia,10,135.64000000000001,90.86,,,left_only
+United States,California,Moreno Valley,10,149.43,99.93,,,left_only
+United States,Alabama,Montgomery,10,281.07,164.79,,,left_only
+United States,Utah,Provo,10,218.20000000000002,129.48,,,left_only
+United States,Virginia,Suffolk,10,113.98,75.76,,,left_only
+United States,Virginia,Waynesboro,10,115.09,76.25,,,left_only
+United States,Alabama,Huntsville,10,138.94,71.32,,,left_only
+United States,Pennsylvania,Lancaster,10,125.57000000000001,85.67,,,left_only
+United States,Florida,Boynton Beach,10,99.19,67.42999999999999,,,left_only
+United States,District of Columbia,Washington,10,142.25,95.85,,,left_only
+United States,Tennessee,Chattanooga,10,133.42,90.53999999999999,,,left_only
+United States,Wisconsin,Madison,10,133.72,91.72,,,left_only
+United States,Kentucky,Florence,10,132.22,90.16,,,left_only
+United States,New York,Watertown,10,124.7,84.56,,,left_only
+United States,Colorado,Thornton,10,165.64,109.6,,,left_only
+United States,Texas,Amarillo,10,113.97,76.13,,,left_only
+United States,Tennessee,Jackson,10,144.84,96.4,,,left_only
+United States,Mississippi,Hattiesburg,9,135.23,89.35,,,left_only
+United States,Wisconsin,Superior,9,131.18,88.26,,,left_only
+United States,New York,New Rochelle,9,91.22,60.239999999999995,,,left_only
+United States,California,Oxnard,9,107.7,66.04,,,left_only
+United States,California,Fairfield,9,107.83,73.95,,,left_only
+United States,California,San Bernardino,9,121.35,80.85,,,left_only
+United States,Utah,Orem,9,112.72,75.62,,,left_only
+United States,North Carolina,Durham,9,114.96000000000001,78.2,,,left_only
+United States,Connecticut,Middletown,9,99.64,66.36,,,left_only
+United States,North Carolina,Greenville,9,93.34,63.14,,,left_only
+United States,Delaware,Dover,9,76.8,50.94,,,left_only
+United States,North Carolina,Monroe,9,78.13,53.51,,,left_only
+United States,North Carolina,Wilmington,9,132.15,88.17,,,left_only
+United States,South Dakota,Sioux Falls,9,125.53999999999999,86.84,,,left_only
+United States,Illinois,Quincy,9,144.56,97.98,,,left_only
+United States,Ohio,Medina,9,131.23,87.21,,,left_only
+United States,Ohio,Lorain,9,126.78,84.12,,,left_only
+United States,Wisconsin,Kenosha,9,127.95,85.95,,,left_only
+United States,Wisconsin,Franklin,9,170.5,113.19999999999999,,,left_only
+United States,Illinois,Naperville,8,115.55000000000001,79.07,,,left_only
+United States,Washington,Kent,8,99.98,66.34,,,left_only
+United States,Connecticut,Bristol,8,60.57,38.69,,,left_only
+United States,Colorado,Pueblo,8,184.96,133.28,,,left_only
+United States,Colorado,Parker,8,83.63,57.05,,,left_only
+United States,New York,Utica,8,112.8,76.94,,,left_only
+United States,Texas,Irving,8,83.59,56.69,,,left_only
+United States,Texas,Corpus Christi,8,117.08,78.8,,,left_only
+United States,Ohio,Bowling Green,8,88.65,59.61,,,left_only
+United States,Indiana,La Porte,8,117.03,79.23,,,left_only
+United States,Florida,Coral Springs,8,74.34,50.52,,,left_only
+United States,Florida,Miramar,8,118.0,77.14,,,left_only
+United States,Illinois,Bloomington,8,94.31,64.13,,,left_only
+United States,Oregon,Redmond,8,150.35,103.91,,,left_only
+United States,Georgia,Athens,8,105.1,70.6,,,left_only
+United States,Oregon,Tigard,8,89.31,60.37,,,left_only
+United States,Minnesota,Eagan,8,78.65,51.75,,,left_only
+United States,New Jersey,Vineland,8,82.48,55.64,,,left_only
+United States,New Jersey,Perth Amboy,8,78.68,52.04,,,left_only
+United States,Utah,Salt Lake City,8,152.97,101.25,,,left_only
+United States,California,Concord,8,90.49,60.33,,,left_only
+Canada,Alberta,Edmonton,8,94.5,63.7,,,left_only
+United States,Montana,Great Falls,8,108.45,71.61,,,left_only
+United States,Nebraska,Fremont,8,118.79,81.29,,,left_only
+Canada,New Brunswick,Moncton,8,172.72,118.72,,,left_only
+United States,Michigan,Lansing,8,89.85,61.07,,,left_only
+United States,California,Lakewood,8,125.94,85.53999999999999,,,left_only
+United States,New York,Mount Vernon,8,116.5,77.97999999999999,,,left_only
+United States,California,Salinas,8,140.36,96.66,,,left_only
+United States,California,Redondo Beach,8,119.61,80.43,,,left_only
+United States,North Carolina,Concord,8,153.4,103.03999999999999,,,left_only
+United States,Kentucky,Georgetown,8,126.89999999999999,83.76,,,left_only
+United States,California,Oceanside,8,88.77,60.31,,,left_only
+United States,California,Santa Barbara,8,97.13,63.65,,,left_only
+United States,Florida,Apopka,7,108.57000000000001,73.99,,,left_only
+United States,North Dakota,Fargo,7,109.66,73.96000000000001,,,left_only
+United States,North Carolina,Asheville,7,101.6,69.2,,,left_only
+United States,Texas,Round Rock,7,80.72,54.32,,,left_only
+United States,Georgia,Marietta,7,113.46000000000001,75.96,,,left_only
+United States,Tennessee,Clarksville,7,93.95,62.11,,,left_only
+United States,California,Pomona,7,117.35,78.07,,,left_only
+United States,California,Apple Valley,7,84.13,55.83,,,left_only
+United States,Mississippi,Southaven,7,87.42,59.92,,,left_only
+United States,Illinois,Highland Park,7,100.45,66.57000000000001,,,left_only
+United States,Washington,Spokane,7,130.9,87.36,,,left_only
+United States,Washington,Des Moines,7,58.75,38.769999999999996,,,left_only
+United States,Colorado,Fort Collins,7,69.52000000000001,48.3,,,left_only
+United States,Massachusetts,Revere,7,83.79,58.03,,,left_only
+United States,Idaho,Pocatello,7,88.49000000000001,59.39,,,left_only
+United States,Indiana,Bloomington,7,110.66,77.16,,,left_only
+United States,Pennsylvania,Allentown,7,73.8,48.8,,,left_only
+United States,Illinois,Peoria,7,84.15,56.45,,,left_only
+United States,Texas,Brownsville,7,91.25,60.07,,,left_only
+United States,Kansas,Wichita,7,92.69,64.28999999999999,,,left_only
+United States,Tennessee,Smyrna,7,92.96000000000001,62.0,,,left_only
+United States,Michigan,Grand Rapids,7,112.1,75.7,,,left_only
+United States,Utah,Pleasant Grove,7,106.52,72.32,,,left_only
+United States,Arizona,Chandler,7,76.5,50.48,,,left_only
+United States,New Jersey,Morristown,7,111.92,76.12,,,left_only
+United States,Virginia,Harrisonburg,7,89.9,61.22,,,left_only
+United States,Washington,Bellevue,6,62.56,42.22,,,left_only
+United States,Wisconsin,Eau Claire,6,71.94,49.66,,,left_only
+United States,Alabama,Auburn,6,57.53,38.83,,,left_only
+United States,Ohio,Mentor,6,52.07,35.85,,,left_only
+Canada,Nova Scotia,Halifax,6,87.5,56.900000000000006,,,left_only
+Canada,Newfoundland and Labrador,St. John's,6,162.0,112.5,,,left_only
+United States,California,Huntington Beach,6,68.93,46.83,,,left_only
+United States,California,Danville,6,208.95,113.53,,,left_only
+United States,New Jersey,Westfield,6,47.94,31.41,,,left_only
+United States,Oregon,Eugene,6,197.61,109.00999999999999,,,left_only
+United States,Illinois,Des Plaines,6,84.59,57.790000000000006,,,left_only
+United States,Texas,Bryan,6,96.4,65.82,,,left_only
+United States,California,Stockton,6,119.81,80.21000000000001,,,left_only
+United States,California,Sunnyvale,6,162.0,82.28,,,left_only
+United States,California,Vallejo,6,78.96,54.46,,,left_only
+United States,New York,Rome,6,78.78,54.18,,,left_only
+United States,Indiana,South Bend,6,88.75,59.35,,,left_only
+United States,North Carolina,Wilson,6,71.61,49.71,,,left_only
+United States,Georgia,Macon,6,80.62,54.260000000000005,,,left_only
+United States,South Carolina,Florence,6,105.01,71.11,,,left_only
+United States,Washington,Pasco,6,95.72,63.3,,,left_only
+United States,Connecticut,Milford,6,100.34,68.04,,,left_only
+United States,Massachusetts,Cambridge,6,67.9,44.74,,,left_only
+United States,Louisiana,Bossier City,6,83.0,49.980000000000004,,,left_only
+United States,Iowa,Marion,6,76.15,52.99,,,left_only
+United States,Minnesota,Roseville,6,71.57000000000001,49.769999999999996,,,left_only
+United States,New Jersey,Passaic,6,84.81,57.81,,,left_only
+United States,New Jersey,Hackensack,6,99.75,68.03,,,left_only
+United States,Arizona,Avondale,6,105.15,70.59,,,left_only
+United States,Texas,League City,6,89.78,62.18,,,left_only
+United States,Michigan,Saginaw,6,85.06,58.72,,,left_only
+United States,Michigan,Roseville,6,75.3,49.26,,,left_only
+United States,California,Lake Forest,6,61.85,42.050000000000004,,,left_only
+United States,Texas,Waco,6,59.79,41.07,,,left_only
+United States,New York,Freeport,6,58.77,39.63,,,left_only
+United States,New Jersey,Orange,6,59.42,40.32,,,left_only
+United States,Kansas,Overland Park,6,79.97,53.75,,,left_only
+United States,Texas,Lubbock,6,78.2,51.7,,,left_only
+United States,Michigan,Dearborn Heights,6,66.22,46.1,,,left_only
+United States,Texas,Port Arthur,6,43.2,29.5,,,left_only
+United States,Massachusetts,Leominster,6,67.8,38.94,,,left_only
+United States,Illinois,Saint Charles,6,63.150000000000006,43.07,,,left_only
+United States,Illinois,Bolingbrook,6,82.23,54.050000000000004,,,left_only
+United States,North Carolina,Cary,6,65.75,44.81,,,left_only
+United States,California,Santa Clara,6,79.3,53.0,,,left_only
+United States,Ohio,Kent,5,70.02,47.18,,,left_only
+United States,Washington,Vancouver,5,47.15,30.87,,,left_only
+United States,Alabama,Florence,5,78.85,51.269999999999996,,,left_only
+United States,Wisconsin,La Crosse,5,257.1,134.28,,,left_only
+United States,Oklahoma,Broken Arrow,5,61.15,42.01,,,left_only
+United States,Pennsylvania,Bethlehem,5,66.0,43.8,,,left_only
+United States,Illinois,Carol Stream,5,62.93,42.29,,,left_only
+United States,Texas,Harlingen,5,76.66,51.26,,,left_only
+United States,California,Thousand Oaks,5,184.64999999999998,100.44999999999999,,,left_only
+United States,Texas,Bedford,5,84.85,58.449999999999996,,,left_only
+United States,Texas,Beaumont,5,76.35,51.05,,,left_only
+United States,Maine,Bangor,5,105.32,70.14,,,left_only
+United States,Maryland,Rockville,5,39.57,27.37,,,left_only
+United States,Colorado,Broomfield,5,76.75,49.89,,,left_only
+United States,Kansas,Olathe,5,54.6,36.8,,,left_only
+United States,Tennessee,Hendersonville,5,79.5,53.08,,,left_only
+United States,Kansas,Garden City,5,28.94,19.400000000000002,,,left_only
+United States,Pennsylvania,Reading,5,57.17,38.49,,,left_only
+United States,Rhode Island,Warwick,5,76.4,43.56,,,left_only
+United States,Pennsylvania,York,5,70.2,46.2,,,left_only
+United States,Tennessee,Bristol,5,48.55,26.490000000000002,,,left_only
+United States,Florida,Palm Coast,5,68.45,36.010000000000005,,,left_only
+United States,Florida,Deltona,5,64.15,41.93,,,left_only
+United States,Oregon,Gresham,5,99.61,67.95,,,left_only
+United States,Texas,Tyler,5,56.32,37.96,,,left_only
+United States,California,Lancaster,5,52.83,36.15,,,left_only
+United States,California,Mission Viejo,5,65.45,43.07,,,left_only
+United States,Massachusetts,New Bedford,5,78.45,52.93,,,left_only
+United States,Michigan,Ann Arbor,5,77.72,52.739999999999995,,,left_only
+United States,Texas,Odessa,5,80.1,54.6,,,left_only
+United States,Texas,Mesquite,5,49.28,34.04,,,left_only
+United States,Michigan,Dearborn,5,83.25,56.85,,,left_only
+United States,Utah,Logan,5,70.89,47.510000000000005,,,left_only
+United States,California,Encinitas,5,47.25,31.849999999999998,,,left_only
+United States,Utah,West Jordan,5,56.55,38.13,,,left_only
+United States,New Jersey,East Orange,5,69.25,45.35,,,left_only
+United States,California,Camarillo,5,55.67,38.75,,,left_only
+United States,Washington,Olympia,5,54.900000000000006,36.9,,,left_only
+United States,Missouri,Saint Louis,5,90.93,61.849999999999994,,,left_only
+United States,Alabama,Hoover,4,54.0,37.3,,,left_only
+United States,Wisconsin,Green Bay,4,49.0,33.04,,,left_only
+United States,West Virginia,Wheeling,4,63.97,43.89,,,left_only
+United States,Wisconsin,Sheboygan,4,26.55,16.810000000000002,,,left_only
+United States,Nevada,Reno,4,61.349999999999994,41.75,,,left_only
+United States,Missouri,Saint Charles,4,45.33,31.25,,,left_only
+United States,Minnesota,Maple Grove,4,46.28,31.060000000000002,,,left_only
+United States,Indiana,New Albany,4,54.0,36.6,,,left_only
+United States,Indiana,Noblesville,4,40.35,26.25,,,left_only
+United States,North Carolina,Gastonia,4,56.58,39.78,,,left_only
+United States,Massachusetts,Andover,4,46.81,32.31,,,left_only
+United States,Oregon,Hillsboro,4,49.35,33.83,,,left_only
+United States,Idaho,Boise,4,31.96,22.46,,,left_only
+United States,Indiana,Greenwood,4,63.0,40.9,,,left_only
+United States,Illinois,Evanston,4,40.21,27.11,,,left_only
+United States,Illinois,Elmhurst,4,99.17,57.269999999999996,,,left_only
+United States,Oregon,Medford,4,34.6,23.04,,,left_only
+United States,Oklahoma,Muskogee,4,46.85,30.509999999999998,,,left_only
+United States,Oklahoma,Lawton,4,46.95,30.93,,,left_only
+United States,Illinois,Freeport,4,42.06,28.88,,,left_only
+United States,Ohio,Hamilton,4,47.0,31.419999999999998,,,left_only
+United States,Texas,Coppell,4,61.839999999999996,41.84,,,left_only
+United States,Texas,Allen,4,46.97,31.29,,,left_only
+United States,Florida,Daytona Beach,4,33.35,21.83,,,left_only
+United States,Florida,Tamarac,4,53.120000000000005,37.22,,,left_only
+United States,Rhode Island,Woonsocket,4,53.53,37.03,,,left_only
+United States,Idaho,Meridian,4,39.9,26.8,,,left_only
+United States,California,Torrance,4,57.8,39.5,,,left_only
+United States,California,Temecula,4,49.72,34.58,,,left_only
+United States,Texas,Pharr,4,79.2,54.0,,,left_only
+United States,California,Rancho Cucamonga,4,48.5,27.86,,,left_only
+United States,Colorado,Arvada,4,34.38,23.42,,,left_only
+United States,California,Visalia,4,72.62,49.42,,,left_only
+United States,Texas,Haltom City,4,46.58,32.28,,,left_only
+United States,California,Morgan Hill,4,57.05,37.65,,,left_only
+United States,Arizona,Yuma,4,78.59,53.99,,,left_only
+United States,Arkansas,Hot Springs,4,54.46,37.06,,,left_only
+United States,Wisconsin,Wausau,4,50.52,34.22,,,left_only
+United States,Washington,Covington,4,70.34,47.74,,,left_only
+United States,California,Hesperia,4,63.1,42.019999999999996,,,left_only
+United States,California,Laguna Niguel,4,54.75,36.45,,,left_only
+United States,Texas,San Marcos,4,42.15,23.25,,,left_only
+United States,Texas,San Angelo,4,44.480000000000004,30.14,,,left_only
+United States,Colorado,Loveland,4,24.25,16.25,,,left_only
+United States,Connecticut,Norwich,4,43.75,29.009999999999998,,,left_only
+United States,Texas,Garland,4,42.63,28.689999999999998,,,left_only
+United States,New Mexico,Farmington,3,38.65,27.35,,,left_only
+United States,Iowa,Dubuque,3,66.3,44.5,,,left_only
+United States,Illinois,Park Ridge,3,61.089999999999996,41.79,,,left_only
+United States,Iowa,Burlington,3,32.85,21.85,,,left_only
+United States,Ohio,Cuyahoga Falls,3,45.7,32.1,,,left_only
+United States,Iowa,Urbandale,3,43.1,28.42,,,left_only
+United States,Massachusetts,Beverly,3,54.9,37.2,,,left_only
+United States,Michigan,Holland,3,39.129999999999995,27.33,,,left_only
+United States,Minnesota,Saint Cloud,3,45.81,32.41,,,left_only
+United States,Nevada,Henderson,3,45.95,20.75,,,left_only
+United States,Nevada,Sparks,3,232.4,122.5,,,left_only
+United States,Washington,Renton,3,49.92,34.28,,,left_only
+United States,Washington,Redmond,3,34.49,23.43,,,left_only
+United States,Florida,Pompano Beach,3,45.0,29.4,,,left_only
+United States,Florida,Port Saint Lucie,3,37.85,25.55,,,left_only
+United States,Florida,West Palm Beach,3,40.65,26.75,,,left_only
+United States,Georgia,East Point,3,24.69,17.39,,,left_only
+United States,Florida,Delray Beach,3,37.95,24.81,,,left_only
+United States,Colorado,Longmont,3,36.120000000000005,24.82,,,left_only
+United States,Florida,Boca Raton,3,27.48,18.32,,,left_only
+United States,Louisiana,Lake Charles,3,52.72,34.9,,,left_only
+United States,Michigan,Canton,3,46.22,32.32,,,left_only
+United States,Maine,Lewiston,3,21.16,14.96,,,left_only
+United States,Idaho,Caldwell,3,37.15,24.77,,,left_only
+United States,Illinois,Oswego,3,46.25,31.95,,,left_only
+United States,Illinois,Wheeling,3,30.3,19.86,,,left_only
+United States,Texas,Edinburg,3,38.790000000000006,25.91,,,left_only
+United States,Texas,College Station,3,67.67,45.85,,,left_only
+United States,Florida,Homestead,3,17.1,11.280000000000001,,,left_only
+United States,California,Burbank,3,45.370000000000005,32.370000000000005,,,left_only
+United States,Utah,Murray,3,55.35,36.95,,,left_only
+United States,California,Escondido,3,31.96,22.26,,,left_only
+United States,Texas,The Colony,3,51.45,34.65,,,left_only
+United States,Washington,Bellingham,3,89.25,59.05,,,left_only
+United States,Washington,Longview,3,34.22,22.92,,,left_only
+United States,Arizona,Sierra Vista,3,32.4,21.8,,,left_only
+United States,California,Chula Vista,3,46.3,30.64,,,left_only
+United States,Texas,Pearland,3,45.75,30.630000000000003,,,left_only
+United States,California,Manteca,3,29.25,19.85,,,left_only
+United States,California,Woodland,3,22.990000000000002,7.71,,,left_only
+United States,California,San Gabriel,3,46.15,32.25,,,left_only
+United States,Tennessee,Lebanon,3,50.49,34.39,,,left_only
+United States,Texas,Texas City,3,24.91,17.21,,,left_only
+United States,Utah,Draper,3,44.21,29.630000000000003,,,left_only
+United States,California,Modesto,3,33.85,22.17,,,left_only
+United States,Mississippi,Gulfport,3,69.16,46.980000000000004,,,left_only
+United States,New Mexico,Las Cruces,3,30.78,20.92,,,left_only
+United States,Montana,Helena,3,61.18,41.68,,,left_only
+United States,Michigan,Lincoln Park,3,38.2,25.84,,,left_only
+United States,Michigan,Taylor,3,24.98,16.98,,,left_only
+United States,Massachusetts,Malden,3,32.97,22.17,,,left_only
+United States,New York,Niagara Falls,3,31.05,19.05,,,left_only
+United States,Michigan,Sterling Heights,3,39.46,26.86,,,left_only
+United States,New Jersey,Bayonne,3,30.3,19.86,,,left_only
+United States,Minnesota,Woodbury,3,40.35,26.65,,,left_only
+United States,Ohio,Mason,3,20.47,13.67,,,left_only
+United States,North Carolina,Thomasville,3,42.43,29.63,,,left_only
+United States,Illinois,Woodstock,3,54.75,37.25,,,left_only
+United States,New Mexico,Rio Rancho,2,24.25,15.79,,,left_only
+United States,Kentucky,Bowling Green,2,16.75,10.89,,,left_only
+United States,Maryland,Laurel,2,18.3,12.4,,,left_only
+United States,Georgia,Warner Robins,2,35.230000000000004,24.63,,,left_only
+United States,Oklahoma,Norman,2,31.0,20.439999999999998,,,left_only
+United States,Georgia,Woodstock,2,55.12,38.699999999999996,,,left_only
+United States,Oklahoma,Edmond,2,31.63,22.23,,,left_only
+United States,Illinois,Frankfort,2,35.120000000000005,24.92,,,left_only
+United States,Ohio,Grove City,2,43.5,28.9,,,left_only
+United States,Indiana,Mishawaka,2,40.05,27.35,,,left_only
+United States,Indiana,Elkhart,2,24.98,17.48,,,left_only
+United States,North Carolina,Hickory,2,18.15,12.45,,,left_only
+United States,Kentucky,Murray,2,27.05,18.05,,,left_only
+United States,Minnesota,Moorhead,2,29.25,18.990000000000002,,,left_only
+United States,Michigan,Royal Oak,2,13.7,9.219999999999999,,,left_only
+United States,Massachusetts,Marlborough,2,20.55,13.530000000000001,,,left_only
+United States,Montana,Bozeman,2,18.0,12.3,,,left_only
+United States,Wisconsin,Appleton,2,41.5,27.02,,,left_only
+United States,Missouri,Gladstone,2,17.75,11.57,,,left_only
+United States,Wisconsin,West Allis,2,16.97,11.69,,,left_only
+United States,Washington,Marysville,2,49.47,32.79,,,left_only
+United States,Arkansas,Pine Bluff,2,23.95,16.669999999999998,,,left_only
+United States,Arizona,Bullhead City,2,10.690000000000001,7.29,,,left_only
+United States,Arkansas,Texarkana,2,39.69,27.189999999999998,,,left_only
+United States,Virginia,Charlottesville,2,24.15,16.33,,,left_only
+United States,California,La Mesa,2,28.25,19.65,,,left_only
+United States,California,El Cajon,2,21.380000000000003,14.98,,,left_only
+United States,Connecticut,Shelton,2,18.45,12.35,,,left_only
+United States,Texas,Cedar Hill,2,21.270000000000003,14.969999999999999,,,left_only
+United States,California,Coachella,2,10.8,7.3,,,left_only
+United States,California,Lodi,2,29.73,19.75,,,left_only
+United States,Texas,La Porte,2,20.9,13.82,,,left_only
+United States,Utah,Lehi,2,26.0,16.880000000000003,,,left_only
+United States,Texas,Mansfield,2,45.92,32.42,,,left_only
+United States,Texas,Richardson,2,43.95,29.05,,,left_only
+United States,South Dakota,Rapid City,2,15.0,9.8,,,left_only
+United States,Michigan,Oak Park,2,17.3,11.42,,,left_only
+United States,New Mexico,Santa Fe,2,49.849999999999994,34.05,,,left_only
+United States,Colorado,Englewood,2,22.5,14.7,,,left_only
+United States,Texas,Grapevine,2,42.43,29.43,,,left_only
+United States,Florida,Coral Gables,2,20.55,13.83,,,left_only
+United States,Colorado,Greeley,2,18.0,12.2,,,left_only
+United States,Texas,Frisco,2,27.6,17.8,,,left_only
+United States,California,San Clemente,2,36.0,25.0,,,left_only
+United States,South Carolina,North Charleston,2,18.45,12.35,,,left_only
+United States,South Carolina,Summerville,2,32.980000000000004,21.86,,,left_only
+United States,Idaho,Twin Falls,2,24.15,16.33,,,left_only
+United States,Florida,North Miami,2,21.72,14.82,,,left_only
+United States,Florida,Sanford,2,31.740000000000002,22.439999999999998,,,left_only
+United States,Illinois,Buffalo Grove,2,37.05,24.65,,,left_only
+United States,Kentucky,Owensboro,2,17.78,12.48,,,left_only
+United States,Louisiana,Kenner,2,14.18,9.780000000000001,,,left_only
+United States,Maryland,Gaithersburg,2,12.25,7.63,,,left_only
+United States,Indiana,New Castle,2,32.7,21.700000000000003,,,left_only
+United States,Minnesota,Saint Paul,2,38.39,27.39,,,left_only
+United States,Minnesota,Coon Rapids,2,23.8,15.64,,,left_only
+United States,Minnesota,Cottage Grove,2,21.9,14.5,,,left_only
+United States,Missouri,Independence,2,20.55,13.83,,,left_only
+United States,Missouri,Kirkwood,2,25.47,17.27,,,left_only
+United States,New Jersey,Bridgeton,2,21.0,13.68,,,left_only
+United States,New Jersey,Clifton,2,31.85,22.049999999999997,,,left_only
+United States,New Hampshire,Nashua,2,34.6,22.84,,,left_only
+Canada,Saskatchewan,Regina,2,29.25,18.99,,,left_only
+United States,Alabama,Tuscaloosa,2,32.4,22.5,,,left_only
+United States,Minnesota,Apple Valley,2,17.97,12.370000000000001,,,left_only
+United States,New Mexico,Clovis,2,37.05,24.65,,,left_only
+United States,New Jersey,New Brunswick,2,10.690000000000001,7.49,,,left_only
+United States,New York,Jamestown,2,32.4,21.8,,,left_only
+United States,Pennsylvania,Altoona,2,29.25,18.990000000000002,,,left_only
+United States,Maryland,Hagerstown,1,21.6,15.0,,,left_only
+United States,Iowa,Waterloo,1,13.0,8.44,,,left_only
+United States,Nebraska,Grand Island,1,7.5,4.9,,,left_only
+United States,Nebraska,Norfolk,1,9.75,6.33,,,left_only
+United States,Missouri,Jefferson City,1,6.98,4.98,,,left_only
+United States,Montana,Missoula,1,6.98,4.98,,,left_only
+United States,Montana,Billings,1,7.5,4.9,,,left_only
+United States,Missouri,Saint Peters,1,13.0,8.44,,,left_only
+United States,New Jersey,Linden,1,25.2,16.8,,,left_only
+United States,Massachusetts,Holyoke,1,7.2,4.8,,,left_only
+United States,Michigan,Mount Pleasant,1,7.2,5.0,,,left_only
+United States,New York,Lindenhurst,1,3.75,2.45,,,left_only
+United States,Michigan,Rochester Hills,1,14.4,9.6,,,left_only
+United States,New Jersey,Atlantic City,1,7.2,5.0,,,left_only
+United States,Idaho,Lewiston,1,3.6,2.4,,,left_only
+United States,Illinois,Oak Park,1,25.2,16.8,,,left_only
+United States,Illinois,Normal,1,14.4,10.0,,,left_only
+United States,Illinois,Glenview,1,10.8,7.5,,,left_only
+United States,Illinois,Orland Park,1,18.75,12.25,,,left_only
+United States,Illinois,Romeoville,1,6.98,4.98,,,left_only
+United States,Illinois,Danville,1,25.2,16.8,,,left_only
+United States,Illinois,Champaign,1,18.0,12.0,,,left_only
+United States,Ohio,Elyria,1,3.75,2.45,,,left_only
+United States,Illinois,Tinley Park,1,25.2,16.8,,,left_only
+United States,North Carolina,Chapel Hill,1,10.47,7.47,,,left_only
+United States,North Carolina,Goldsboro,1,9.75,6.33,,,left_only
+United States,Iowa,Cedar Rapids,1,10.47,7.47,,,left_only
+United States,Indiana,Portage,1,7.5,4.9,,,left_only
+United States,Iowa,Iowa City,1,3.6,2.5,,,left_only
+United States,Illinois,Palatine,1,22.75,14.77,,,left_only
+United States,Kansas,Manhattan,1,6.98,4.98,,,left_only
+United States,South Carolina,Rock Hill,1,9.75,6.33,,,left_only
+United States,Florida,Pensacola,1,10.8,7.2,,,left_only
+United States,South Carolina,Mount Pleasant,1,20.94,14.94,,,left_only
+United States,Florida,Kissimmee,1,7.5,4.9,,,left_only
+United States,Florida,Jupiter,1,3.6,2.4,,,left_only
+United States,Illinois,Arlington Heights,1,20.94,14.94,,,left_only
+United States,Florida,Port Orange,1,3.6,2.5,,,left_only
+United States,Texas,Abilene,1,6.5,4.22,,,left_only
+United States,Connecticut,Danbury,1,7.5,4.9,,,left_only
+United States,Colorado,Littleton,1,3.6,2.5,,,left_only
+United States,Florida,Ormond Beach,1,9.75,6.33,,,left_only
+United States,Florida,Margate,1,10.47,7.47,,,left_only
+United States,Florida,Melbourne,1,2.5,1.3,,,left_only
+United States,Tennessee,Bartlett,1,26.0,16.88,,,left_only
+United States,South Dakota,Aberdeen,1,10.8,7.5,,,left_only
+United States,California,San Luis Obispo,1,6.5,4.22,,,left_only
+United States,Colorado,Commerce City,1,10.47,7.47,,,left_only
+United States,California,Yucaipa,1,17.45,12.45,,,left_only
+United States,California,Whittier,1,14.4,9.6,,,left_only
+United States,California,Vacaville,1,35.75,23.21,,,left_only
+United States,Texas,Baytown,1,6.5,4.22,,,left_only
+United States,Texas,Conroe,1,31.41,22.41,,,left_only
+United States,Texas,Deer Park,1,20.94,14.94,,,left_only
+United States,Texas,Missouri City,1,25.2,17.5,,,left_only
+United States,Texas,Keller,1,6.98,4.98,,,left_only
+United States,California,Santa Maria,1,9.75,6.33,,,left_only
+United States,California,San Mateo,1,21.6,15.0,,,left_only
+United States,California,Pico Rivera,1,16.25,10.55,,,left_only
+United States,California,Ontario,1,18.75,12.25,,,left_only
+United States,California,Redwood City,1,19.5,12.66,,,left_only
+United States,California,Redding,1,9.75,6.33,,,left_only
+United States,California,Murrieta,1,11.25,7.35,,,left_only
+United States,California,Montebello,1,7.5,4.9,,,left_only
+United States,California,Lake Elsinore,1,18.0,12.5,,,left_only
+United States,Utah,Layton,1,13.0,8.44,,,left_only
+United States,California,Davis,1,16.25,10.55,,,left_only
+United States,California,Dublin,1,18.75,12.25,,,left_only
+United States,Arkansas,Rogers,1,32.4,21.6,,,left_only
+United States,California,La Quinta,1,14.4,10.0,,,left_only
+United States,California,Antioch,1,10.47,7.47,,,left_only
+United States,Arkansas,Springdale,1,7.5,4.9,,,left_only
+United States,California,Citrus Heights,1,10.8,7.5,,,left_only
+United States,Arkansas,Conway,1,6.98,4.98,,,left_only
+United States,Washington,Auburn,1,3.49,2.49,,,left_only
+United States,Washington,Everett,1,3.6,2.4,,,left_only
+United States,Wisconsin,Waukesha,1,18.0,12.5,,,left_only
+United States,Wyoming,Cheyenne,1,13.96,9.96,,,left_only
